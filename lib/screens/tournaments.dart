@@ -63,11 +63,6 @@ class _TournamentsPageState extends State<TournamentsPage> {
               imageUrl: "assets/profile_picture.jpg",
             ),
 
-            tournamentCard(
-              title: "Pro League Showdown",
-              subtitle: "Witness the best teams compete for the title.Unlock winning strategies with expert guidance.",
-              imageUrl: "assets/profile_picture.jpg",
-            ),
             const SizedBox(height: 24),
             const Text(
               "Mentorship Opportunities",
@@ -96,11 +91,6 @@ class _TournamentsPageState extends State<TournamentsPage> {
             mentorshipCard(
               title: "Strategic Insights",
               subtitle: "Unlock winning strategies with expert guidance.",
-              imageUrl: "assets/profile_picture.jpg",
-            ),
-            mentorshipCard(
-              title: "Become a Pro",
-              subtitle: "Learn from top players and enhance your skills.Unlock winning strategies with expert guidance.",
               imageUrl: "assets/profile_picture.jpg",
             ),
           ],
