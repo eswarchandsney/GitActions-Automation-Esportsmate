@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717432650644",
+    "project_id": "e-sportsmate",
+    "storage_bucket": "e-sportsmate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717432650644:android:71a4475d3f8f2fd608ed81",
+        "android_client_info": {
+          "package_name": "com.eswar.esportsmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXoUAOniCxrudlyrkmmbDqXdgkNKA_Wm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "e-sportsmate",
+          "appId": "1:717432650644:android:71a4475d3f8f2fd608ed81",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "e-sportsmate",
+          "configurations": {
+            "android": "1:717432650644:android:71a4475d3f8f2fd608ed81",
+            "ios": "1:717432650644:ios:fd11d1adedd3c79d08ed81",
+            "web": "1:717432650644:web:d75b8de18a2118c908ed81"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
