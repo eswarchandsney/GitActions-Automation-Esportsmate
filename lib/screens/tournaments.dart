@@ -53,17 +53,22 @@ class _TournamentsPageState extends State<TournamentsPage> {
               imageUrl: "assets/profile_picture.jpg",
             ),*/
             tournamentCard(
-              title: "Champions Cup 2023",
+              title: "Champions Cup 2024",
               subtitle: "The battle for glory begins. Join now!",
               imageUrl: "assets/profile_picture.jpg",
             ),
             tournamentCard(
-              title: "Champions Cup 2023",
+              title: "Champions Cup 2025",
+              subtitle: "India won the match",
+              imageUrl: "assets/profile_picture.jpg",
+            ),
+            tournamentCard(
+              title: "Champions Cup 2020",
               subtitle: "The battle for glory begins. Join now!",
               imageUrl: "assets/profile_picture.jpg",
             ),
             tournamentCard(
-              title: "Pro League Showdown",
+              title: "Pro League Showdown .....Hiiii",
               subtitle: "Witness the best teams compete for the title.",
               imageUrl: "assets/profile_picture.jpg",
             ),
