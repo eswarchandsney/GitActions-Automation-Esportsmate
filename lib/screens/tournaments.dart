@@ -47,9 +47,14 @@ class _TournamentsPageState extends State<TournamentsPage> {
             ),
             const SizedBox(height: 16),
 
-            tournamentCard(
+            /*tournamentCard(
               title: "Pro League Showdown",
               subtitle: "Witness the best teams compete for the title.",
+              imageUrl: "assets/profile_picture.jpg",
+            ),*/
+            tournamentCard(
+              title: "Champions Cup 2023",
+              subtitle: "The battle for glory begins. Join now!",
               imageUrl: "assets/profile_picture.jpg",
             ),
             tournamentCard(
@@ -83,14 +88,24 @@ class _TournamentsPageState extends State<TournamentsPage> {
               subtitle: "Unlock winning strategies with expert guidance.",
               imageUrl: "assets/profile_picture.jpg",
             ),
-            mentorshipCard(
+            /*mentorshipCard(
               title: "Become a Pro",
               subtitle: "Learn from top players and enhance your skills.Unlock winning strategies with expert guidance.",
               imageUrl: "assets/profile_picture.jpg",
-            ),
+            ),*/
             mentorshipCard(
               title: "Strategic Insights",
               subtitle: "Unlock winning strategies with expert guidance.",
+              imageUrl: "assets/profile_picture.jpg",
+            ),
+            mentorshipCard(
+              title: "Become a Pro",
+              subtitle: "Learn .",
+              imageUrl: "assets/profile_picture.jpg",
+            ),
+            mentorshipCard(
+              title: "Become a Pro",
+              subtitle: "Learn.",
               imageUrl: "assets/profile_picture.jpg",
             ),
           ],
