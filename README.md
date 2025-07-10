@@ -1,4 +1,4 @@
-# esportsmate
+# Esportsmate
 E-Sports Mate
 A web application designed to enhance the esports experience by connecting players, teams, and fans. Built with modern web technologies, E-Sports Mate delivers a seamless, interactive platform for the esports community.
 Overview
